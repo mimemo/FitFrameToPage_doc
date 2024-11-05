@@ -8,7 +8,7 @@
 
 ---
 
-## Support
+## support
 
 - Twitter:@Kawaishi2
 
