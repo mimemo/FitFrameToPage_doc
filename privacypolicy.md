@@ -12,7 +12,7 @@ UXP plugin for InDesign
 
 ## support
 
-- Twitter:@Kawaishi2
+- X(Twitter):@Kawaishi2
 
 ---
 
