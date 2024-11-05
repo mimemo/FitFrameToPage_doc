@@ -1,6 +1,8 @@
 # Fit Frame to Page
 
-[jp] InDesign向けのプラグイン。選択したフレームをページサイズに自動調整します。
+UXP plugin for InDesign
+
+[jp] 選択したフレームをページサイズに自動調整します。
 
 [en] Automatically resizes and positions selected frames to fit the page
 
