@@ -1,12 +1,18 @@
 # Fit Frame to Page ![icon](./img/icon.png) ![id](./img/id.png) 
 
-[LINK: Adobe App Marketplaces Page](https://exchange.adobe.com/apps/cc/e1c998da?pluginId=e1c998da&mv=product&mv2=accc)
+- [LINK: Adobe App Marketplaces Page ⎘](https://exchange.adobe.com/apps/cc/e1c998da?pluginId=e1c998da&mv=product&mv2=accc)
+
+- [PrivacyPolicy Page ⎘](./privacypolicy.md)
 
 ---
 
-## About
+## about
 
 ![preview](./img/a.png)  
+![preview](./img/b.png)  
+![preview](./img/c.png)  
+
+## introduction
 
 This UXP plugin for InDesign adjusts selected text or image frames to fit the page, margin, or bleed, streamlining workflow and improving productivity.
 
@@ -34,6 +40,3 @@ The selected frame can be fitted to the page size or aligned with the margin or 
 
 ---
 
-# PrivacyPolicy (プライバシーポリシー)
-
-- [PrivacyPolicy Page ⎘](./privacypolicy.md)
