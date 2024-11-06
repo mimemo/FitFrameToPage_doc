@@ -1,6 +1,8 @@
-# Fit Frame to Page 
+# Fit Frame to Page ![icon](./img/icon.png) ![id](./img/id.png) 
 
-![icon](./img/icon.png) ![id](./img/id.png) 
+[LINK: Adobe App Marketplaces Page](https://exchange.adobe.com/apps/cc/e1c998da?pluginId=e1c998da&mv=product&mv2=accc)
+
+---
 
 ## About
 
